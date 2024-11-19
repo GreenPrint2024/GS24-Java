@@ -18,7 +18,7 @@ public class CalculadoraEmissao {
         System.out.println("\nEmissões de CO2 geradas:");
         System.out.println("Transporte: " + emissaoTransporte + " kgCO2");
         System.out.println("Energia: " + emissaoEnergia + " kgCO2");
-        System.out.println("Alimentos: " + emissaoAlimentos + " kg");
-        System.out.println("Total de emissões: " + totalEmissao + " kg");
+        System.out.println("Alimentos: " + emissaoAlimentos + " kgCO2");
+        System.out.println("Total de emissões: " + totalEmissao + " kgCO2");
     }
 }
